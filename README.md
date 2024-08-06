@@ -7,14 +7,14 @@
 
 ## Project Description
 
-### Project 01: HomeWork 2 Question 7
+### HomeWork 2 Question 7
 For a detailed project description, please refer to the [Project Description PDF](./ST_HW2.pdf). <br />
-The results report is provided in the [Project Report PDF](./Prj1_Nazari_9931061.pdf). <br />
+The results report is provided in the [Project Report PDF](./ST_HW2-9931061-9931098.pdf). <br />
 The implemented Project Code is in [Project Code Folder](./ST-HW2-Q7).
 
-### Project 02: Bonus HomeWork
-For a detailed project description, please refer to the [Project Description PDF](./HW_Bomus.pdf). <br />
-The results report is provided in the [Project Report PDF](./Prj2_Nazari_9931061.pdf). <br />
+### Bonus HomeWork
+For a detailed project description, please refer to the [Project Description PDF](./HW_Bonus.pdf). <br />
+The results report is provided in the [Project Report PDF](./ST-HWBonus-9931061.pdf). <br />
 The implemented Project Code is in [Project Code Folder](./ST_HWBonus).
 
 ## Dependencies
