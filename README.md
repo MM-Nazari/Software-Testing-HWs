@@ -20,8 +20,8 @@ The implemented Project Code is in [Project Code Folder](./ST_HWBonus).
 ## Dependencies
 This project uses the following libraries:
 
-- [re](https://docs.python.org/3/library/re.html)
-- [ipaddress](https://docs.python.org/3/library/ipaddress.html)
+- [junit](https://junit.org/junit5/docs/current/user-guide/)
+- [mockito](https://site.mockito.org/)
 - [nmap](https://nmap.org/)
 - [cryptography](https://cryptography.io/en/latest/)
 
