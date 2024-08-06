@@ -20,10 +20,14 @@ The implemented Project Code is in [Project Code Folder](./ST_HWBonus).
 ## Dependencies
 This project uses the following libraries:
 
+### Java
 - [junit](https://junit.org/junit5/docs/current/user-guide/)
 - [mockito](https://site.mockito.org/)
-- [nmap](https://nmap.org/)
-- [cryptography](https://cryptography.io/en/latest/)
+
+### Python
+- [itertools](https://docs.python.org/3/library/itertools.html)
+- [unittest](https://docs.python.org/3/library/unittest.html)
+- [cucumber](https://cucumber.io/docs/installation/python/)
 
 ## IDE
 This project is developed using Pycharm & IntelliJ.
